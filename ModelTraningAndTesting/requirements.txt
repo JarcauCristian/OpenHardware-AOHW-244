@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+foolbox
+eagerpy
+opencv-python
+tensorboard
+torchinfo
+tqdm
+numpy
+pillow
